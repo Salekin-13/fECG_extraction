@@ -51,6 +51,9 @@ coverage.xml
 .pytest_cache/
 cover/
 
+# Ignore all files in example_data folder
+example_data/
+
 # Translations
 *.mo
 *.pot
